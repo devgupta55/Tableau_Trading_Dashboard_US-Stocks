@@ -58,7 +58,7 @@ This project is a dynamic **Trading Dashboard** designed for an investment bank 
    - Cleaned and modeled data using **SQL** in **Azure Data Studio**.  
    - Created views for fact tables (`FactPrices_Daily`, `FactAttributes_Intraday`) and dimensions (`DimSecurity`, `DimExchange`).  
 3. **ERD Diagram**:  
-   <img src="https://github.com/user-attachments/assets/5889d35d-52bc-4559-95c9-0d81ad6e5def" width = "300">
+   <img src="https://github.com/user-attachments/assets/5889d35d-52bc-4559-95c9-0d81ad6e5def" width = "450">
 
 4. **Tableau Analytics**:  
    - Used **LODs** for rolling averages and Bollinger Band calculations.  

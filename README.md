@@ -16,8 +16,8 @@ This project is a dynamic **Trading Dashboard** designed for an investment bank 
 - **Data Modeling**: Star Schema, ERD Diagrams  
 
 **Preview of Dashboard**: <br>
-<img src="https://github.com/user-attachments/assets/4f6bdb3a-46b9-465b-89dc-a10eba234db4" > <br>
-<!-- <img src="https://github.com/user-attachments/assets/c5bcc863-e4f0-4067-acc5-d1257371083f" > -->
+<!--<img src="https://github.com/user-attachments/assets/4f6bdb3a-46b9-465b-89dc-a10eba234db4" > <br>-->
+<img src="https://github.com/user-attachments/assets/c5bcc863-e4f0-4067-acc5-d1257371083f" > 
 
 **[Access Live Dashboard](https://public.tableau.com/views/TradingDashboard_17406427752560/TradingDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
